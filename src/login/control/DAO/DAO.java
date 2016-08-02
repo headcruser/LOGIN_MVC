@@ -7,6 +7,7 @@ import login.control.Exception.DAOException;
 /** Interfaz a ser implementada por las clases posteriores del proyecto,
  * utilizando el patron de diseño Dao
  * @author Headcruser87
+ * @version 1.0
  * @param <contenedor> alamcena la clase a implementar*/
 public interface DAO<contenedor>
 {
