@@ -1,0 +1,8 @@
+databaseclass=login.control.conexion.CConexion
+DRIVER=com.microsoft.sqlserver.jdbc.SQLServerDriver
+EQUIPO=localhost
+BD_NOMBRE=TBD_LIBRERIA
+USUARIO=DANIEL_SQL
+PASSWD=admin120324
+options=charSet=LATIN1
+mostrarpropierties=si
